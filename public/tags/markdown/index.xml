@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hextra – Markdown</title>
-    <link>https://example.com/tags/markdown/</link>
+    <link>//localhost:4321/tags/markdown/</link>
     <description>Recent content in Markdown on Hextra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:4321/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,11 +16,28 @@
     
     
     <item>
+      <title>post2</title>
+      <link>//localhost:4321/blog/2024-10-25-post2/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:4321/blog/2024-10-25-post2/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#markdown dihapus&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/blog/markdown/</link>
+      <link>//localhost:4321/blog/markdown/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/markdown/</guid>
+      <guid>//localhost:4321/blog/markdown/</guid>
       <description>
         
         
