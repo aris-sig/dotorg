@@ -182,6 +182,9 @@
                 href="https://example.com/docs/guide/shortcodes/"
                 />
   </url><url>
+    <loc>https://example.com/dash/</loc>
+    <lastmod>2024-10-26T07:01:30+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2024-10-25T06:19:50+00:00</lastmod>
     <xhtml:link
@@ -277,7 +280,7 @@
                 />
   </url><url>
     <loc>https://example.com/about/</loc>
-    <lastmod>2024-10-25T04:23:47+00:00</lastmod>
+    <lastmod>2024-10-25T07:00:46+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
